@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CodeCombat Solutions</string>
+    <string name="label_worlds">Code Combat Campaigns</string>
+    <string name="tv_world">Kithgard Dungeon</string>
+    <string name="label_locations">Kithgard Dungeon</string>
+    <string name="tv_location">Dungeons of Kithgard</string>
+    <string-array name="array_locations">
+        <item>Dungeons of Kithgard</item>
+        <item>Gems in the Deep</item>
+        <item>Shadow Guard</item>
+    </string-array>
 </resources>
